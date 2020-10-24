@@ -54,7 +54,7 @@ if(isset($_POST["guardar"])) {
             <input type="text" class="form-control" id="precio" name="precio" required>
         </div>
         <div class="form-group">
-            <label for="descripcion">Descrpción</label>
+            <label for="descripcion">Descripción</label>
             <input type="text" class="form-control" id="descripcion" name="descripcion" required>
         </div>
         <button type="submit" class="btn btn-primary" name="guardar">Guardar</button>

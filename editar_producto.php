@@ -43,7 +43,7 @@ if(isset($_POST["actualizar"])) {
 </head>
 <body>
     <div class="container mt-4">
-        <h1>Editar Producto <?php echo $nombre; ?></h1>
+        <h1>Editar Producto</h1>
         <a class="btn btn-primary" href="index.php">Ir al inicio</a>
         <br /> <br /> <hr />
         <form method="post" action="editar_producto.php">
